@@ -1,0 +1,39 @@
+# Kitchen Kart - Design Process
+
+## 1. Research & Inspiration
+We began by analyzing popular recipe apps and platforms such as Tasty, AllRecipes, and Yummly. User feedback and personal experiences were used to identify gaps, especially in terms of simplicity, image-first interfaces, and customizable filters.
+
+## 2. User Persona Creation
+To guide our UI/UX decisions, we created fictional user personas:
+- **Ananya, 21:** A college student who wants quick vegetarian recipes.
+- **Ravi, 35:** A working professional who wants to cook dinner with limited ingredients.
+- **Sarah, 28:** A food blogger looking for unique international dishes.
+
+## 3. Wireframing
+Initial wireframes were sketched out to visualize:
+- Home Page with search and featured recipes
+- Recipe Detail Page with images, steps, and ingredients
+- Category filters and bookmark management
+Wireframes were created using Figma for clarity and iteration.
+
+## 4. UI/UX Design
+- We followed a **minimalistic and visual-first approach** with large images, clean typography, and color-coded categories.
+- Used soft colors (green for veg, red for non-veg, yellow for breakfast, etc.) to guide users easily.
+- The app follows a **card-based layout** for intuitive navigation.
+- Mobile-first design ensured smooth responsiveness across devices.
+
+## 5. Development
+- Frontend was developed using ReactJS with reusable components for cards, buttons, and recipe modals.
+- Recipe data was stored either in a local JSON or through a backend API (Firebase/Node.js).
+- Routing was managed using React Router for navigation between pages.
+
+## 6. Testing
+- Conducted manual testing for:
+  - Navigation flow
+  - Responsiveness
+  - Search and filter functionality
+  - User interaction elements like buttons and bookmarks
+- Feedback was collected from peers and used to refine UI elements.
+
+## 7. Deployment
+- The app was deployed using GitHub Pages / Netlify / Vercel for easy sharing.

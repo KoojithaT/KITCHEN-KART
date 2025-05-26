@@ -1,0 +1,22 @@
+# Kitchen Kart - Future Vision
+
+## Short-Term Goals
+- **User Authentication:** Allow users to register, log in, and save their preferences.
+- **Custom Recipe Upload:** Enable users to submit and store their own recipes with images.
+- **Enhanced Filtering:** Introduce filters for cooking time, ingredients available, spice levels, and diet plans (e.g., keto, gluten-free).
+- **Dark Mode:** Add theme switching to enhance usability at night.
+
+## Medium-Term Goals
+- **AI-Based Suggestions:** Recommend recipes based on user activity, preferences, and past saved recipes.
+- **Ingredient-Based Recipe Generator:** Users can input ingredients they have, and the app will suggest recipes they can make.
+- **Weekly Meal Planner:** A calendar-based feature for users to plan their meals in advance.
+- **Shopping List Generator:** Based on chosen recipes, generate a shopping list automatically.
+
+## Long-Term Vision
+- **Voice Assistance Integration:** Add voice-controlled navigation for hands-free cooking (e.g., Alexa, Google Assistant).
+- **Multilingual Support:** Add support for regional languages to cater to a broader user base.
+- **Community Features:** Include recipe ratings, user comments, and a cooking forum.
+- **Partnerships with Grocery Apps:** Link recipes to real-time grocery delivery platforms like BigBasket, Blinkit, etc.
+
+## Final Thoughts
+Kitchen Kart is designed to be more than just a recipe app — it's a digital kitchen companion. Our vision is to transform everyday cooking into an engaging and personalized experience using intuitive design, smart features, and community engagement.

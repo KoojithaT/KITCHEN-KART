@@ -1,0 +1,31 @@
+# Kitchen Kart - Project Overview
+
+## Introduction
+Kitchen Kart is a user-friendly recipe app designed to help food enthusiasts discover, explore, and organize recipes from diverse cuisines. Whether you're a beginner or an experienced cook, Kitchen Kart simplifies the cooking experience by providing categorized recipe steps, ingredient lists, preparation time, and visually appealing images. With the option to filter recipes based on dietary preferences such as vegetarian or non-vegetarian, the app caters to a wide user base.
+
+## Objectives
+- To create a responsive and interactive application for users to browse and manage recipes.
+- To support filtering and categorization of recipes (e.g., cuisine type, meal type, dietary preferences).
+- To integrate image-based interfaces for enhanced user experience.
+- To provide a user-friendly interface that allows bookmarking, favoriting, and saving personal recipes.
+
+## Key Features
+- **Search Functionality:** Users can search for recipes by name, ingredient, or category.
+- **Recipe Categories:** Organized by cuisine (Indian, Italian, Chinese, etc.), meal (breakfast, lunch, dinner), and dietary filters (vegetarian, vegan, etc.).
+- **Step-by-Step Instructions:** Each recipe includes detailed preparation steps, ingredient quantities, cooking time, and tips.
+- **Image Support:** Visuals for each recipe help users understand the process better.
+- **Favorites & Bookmarks:** Users can save their favorite recipes and access them easily.
+- **Mobile-Friendly Design:** Responsive UI that works smoothly across devices.
+
+## Technology Stack
+- **Frontend:** HTML, CSS, JavaScript (React.js or plain JS, depending on your setup)
+- **Backend (Optional):** Node.js with Express / Firebase / JSON Server
+- **Database (Optional):** MongoDB / Firebase / Local JSON
+- **Version Control:** Git and GitHub
+- **Design Tools:** Figma / Canva (for UI mockups and posters)
+
+## Target Users
+- Home cooks, food lovers, students, or anyone looking to try new recipes with ease.
+
+## Motivation
+Cooking should be fun, not frustrating. Kitchen Kart was built to reduce decision fatigue, simplify meal planning, and help users cook confidently with step-by-step guidance and visuals.
